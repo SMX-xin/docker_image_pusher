@@ -3,4 +3,4 @@ gdy666/lucky:latest
 myservers/my_servers:latest
 zerotier/zerotier-synology:latest
 linuxserver/qbittorrent:latest
-centos:latest
+ghcr.io/gethomepage/homepage:latest
