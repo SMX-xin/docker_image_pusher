@@ -4,3 +4,4 @@ myservers/my_servers:latest
 zerotier/zerotier-synology:latest
 linuxserver/qbittorrent:latest
 ghcr.io/gethomepage/homepage:latest
+linuxserver/docker-calibre-web:latest
